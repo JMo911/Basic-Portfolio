@@ -41,3 +41,10 @@ p{
     text-indent: 40px;
 }
 
+#DefaultPic{
+    height: auto;
+    max-width: 20%;
+    border-radius: 8px;
+    margin-left: 40px;
+}
+
