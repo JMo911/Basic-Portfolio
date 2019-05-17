@@ -1,0 +1,28 @@
+nav{
+    background-color: slategrey;
+    margin: 0;
+
+}
+
+h1{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+body{
+    margin: 0;
+}
+
+
+
+
+
+#aboutMe{
+    border: black;
+    border-width: 5px;
+    border-style: inset;
+    background-color: aqua;
+    margin: auto;
+    width: 500px;
+}
+
