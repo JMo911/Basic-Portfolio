@@ -6,6 +6,14 @@
     justify-content: space-evenly;
 
   }
+
+.containerimg{
+    position: relative;
+}  
+
+.containerh2{
+    position: absolute;
+}
   
   #aboutMe{
     border: #dddddd;
