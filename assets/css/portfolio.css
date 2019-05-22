@@ -13,6 +13,10 @@
 
 .containerh2{
     position: absolute;
+    top: 72px;
+    background-color: black;
+    left: 30px;
+    width: 150px;
 }
   
   #aboutMe{
