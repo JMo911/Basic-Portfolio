@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto&display=swap');
+
 /* HEADER */ 
 
 header{
@@ -45,6 +47,10 @@ li {
     padding: 15px 5px 15px 5px;
     height: 23px;
   }
+ 
+li:hover{
+    background-color: #696565;
+}  
 
 a{
     text-decoration: none;
